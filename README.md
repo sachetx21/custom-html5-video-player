@@ -1,3 +1,10 @@
+node version = v18.20.2
+nvm install 18
+npm install -g npm
+npm install -g yarn
+yarn
+yarn dev
+
 ## Custom HTML5 Video Player
 
 This repository contains the codebase for the Freecodecamp article "How to Build a Custom HTML5 Video Player Using TailwindCSS and JavaScript".
